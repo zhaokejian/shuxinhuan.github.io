@@ -5,7 +5,7 @@
 # Site
 title: Shu Xinhuan
 subtitle: 只此一生，何必从众
-description:
+description: a Ph.D. student at HKUST,</br>with interests in Data Visualization
 author: Shu Xinhuan
 language: en
 timezone:
@@ -85,3 +85,14 @@ deploy:
 marked:
   gfm: true
   breaks: false
+
+social:
+  GitHub: https://github.com/shuxinhuan
+  zhihu: https://www.zhihu.com/people/su-xing-yun/activities
+
+social_icons:
+  enable: true
+  # Icon Mappings.
+  # KeyMapsToSocalItemKey: NameOfTheIconFromFontAwesome
+  GitHub: github
+  zhihu: zhihu
