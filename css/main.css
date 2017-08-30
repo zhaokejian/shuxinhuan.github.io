@@ -1323,8 +1323,22 @@ pre .javascript .function {
   padding: 3px;
   border: 1px solid #ddd;
 }
-.posts-expand .post-body .aboutWork td {
+.posts-expand .post-body .aboutWork {
   border: 0;
+}
+.posts-expand .post-body .aboutWork tr {
+  background-color: #fff;
+}
+.posts-expand .post-body .workDate {
+  width: 180px;
+  text-align: right;
+}
+.posts-expand .post-body .workPos {
+  font-weight: 700;
+  color: #000;
+}
+.posts-expand .post-body .workDesc {
+  font-weight: 300;
 }
 .posts-expand .fancybox img {
   margin: 0 auto;
@@ -1831,7 +1845,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff73f0;
+  background: #a8e362;
 }
 .links-of-blogroll {
   font-size: 13px;
