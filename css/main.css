@@ -1309,7 +1309,7 @@ pre .javascript .function {
 .posts-expand .post-body h6:hover .header-anchor {
   visibility: visible;
 }
-.posts-expand .post-body a {
+.posts-expand .post-body .aboutLinks {
   color: #4682b4;
   text-decoration: underline;
   border-bottom: 0;
@@ -1850,7 +1850,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #b58fff;
+  background: #ed7437;
 }
 .links-of-blogroll {
   font-size: 13px;
