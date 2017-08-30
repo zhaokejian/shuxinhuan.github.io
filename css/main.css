@@ -1323,22 +1323,27 @@ pre .javascript .function {
   padding: 3px;
   border: 1px solid #ddd;
 }
-.posts-expand .post-body .aboutWork {
+.posts-expand .post-body .aboutTable {
   border: 0;
+  width: initial;
 }
-.posts-expand .post-body .aboutWork tr {
+.posts-expand .post-body .aboutTable tr {
   background-color: #fff;
 }
-.posts-expand .post-body .workDate {
-  width: 180px;
+.posts-expand .post-body .tableDate {
+  padding: 0px;
   text-align: right;
 }
-.posts-expand .post-body .workPos {
+.posts-expand .post-body .tableTitle {
   font-weight: 700;
+  padding: 0px 0px 0px 20px;
+  font-size: 105%;
   color: #000;
 }
-.posts-expand .post-body .workDesc {
+.posts-expand .post-body .tableDescr {
   font-weight: 300;
+  padding: 0px 0px 0px 20px;
+  font-size: 105%;
 }
 .posts-expand .fancybox img {
   margin: 0 auto;
@@ -1845,7 +1850,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #a8e362;
+  background: #c81171;
 }
 .links-of-blogroll {
   font-size: 13px;
