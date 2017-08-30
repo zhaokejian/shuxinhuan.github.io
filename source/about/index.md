@@ -15,7 +15,7 @@
 ## Short Bio
 <p style="font-size: 105%"> My name is Shu Xinhuan, a PhD student in the Department of Computer Science and Engineering at <a href="http://www.ust.hk/">Hong Kong University of Science and Technology</a>. Now, I'm a member of <a href="http://vis.cse.ust.hk/">HKUST VisLab</a> with the supervisor, <a href="http://www.huamin.org/">Prof. Qu Huamin</a>. My research interests focus on data visualization and human-computer interaction.</p>
 
-<p style="font-size: 105%">I have got my B.Eng. degree in <a href="http://www.zju.edu.cn/english/">Zhejiang University</a> with the major of Computer Science and Technology. During this period, I was a member of <a href="http://www.cad.zju.edu.cn/english.html">CAD&CG Lab</a>, supervised by Assistant Professor <a href="http://www.ycwu.org/">Yingcai Wu</a>.</p>
+<p style="font-size: 105%">I have got my Bachelor of Engineering degree in <a href="http://www.zju.edu.cn/english/">Zhejiang University</a> with the main major of Computer Science and Technology. I was also a member of <a href="http://www.cad.zju.edu.cn/english.html">CAD&CG Lab</a>, supervised by Assistant Professor <a href="http://www.ycwu.org/">Yingcai Wu</a>. During my undergraduate studies, I minored in Public Administration at <a href="http://ckc.zju.edu.cn/english/">Chu Kochen Honors College</a>, Zhejiang University.</p>
 
 <p style="clear:both">&nbsp;</p>
 
@@ -35,6 +35,10 @@
 
 ## Awards and Hornors
 <table class="aboutTable">
+  <tr>
+    <td class="tableDate"> 2017 </td>
+    <td class="tableDescr"> Outstanding Graduates of Zhejiang University</td>
+  </tr>
   <tr>
     <td class="tableDate"> 2016 </td>
     <td class="tableDescr"> Honorable Mention Award for <a href="http://www.comap.com/">COMAP's International Mathematical Contest in Modeling</a></td>
