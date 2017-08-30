@@ -1,0 +1,26 @@
+//配置hexo
+hexo init [folder]
+cd [folder]
+npm install
+hexo generate
+hexo server -p 3600    //win10系统福昕阅读器默认打开了4000端口，如果只是hexo server则在4000端口上会冲突,故更改端口
+
+
+//部署在GitHub Page
+1. 修改_config.yml中deploy部分，注意冒号后面一定要有空格。
+2. npm install hexo-deployer-git --save //npm --save是把这个依赖添加到package.json中
+3. hexo deploy
+
+//以后每次部署
+hexo clean
+hexo generate
+hexo deploy
+
+
+//常用命令
+hexo new "postName"       #新建文章
+hexo new page "pageName"  #新建页面
+
+
+问：文章只显示一部分和一个 阅读全文 的按钮：
+答：在文章中加一个 <!--more--> ， <!--more--> 后面的内容就不会显示出来了。
