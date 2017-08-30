@@ -55,6 +55,7 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  up in the clouds: life
 tag_map:
 
 # Date / Time format
