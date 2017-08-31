@@ -37,7 +37,7 @@ date: 2017-08-28 13:58:42
       </br>
       Accepted by IEEE Transactions on Visualization and Computer Graphics (Proceedings of IEEE InfoVis 2017)
       <br>
-      Download: [<a href="about/about/iTTVis.pdf" class="aboutLinks">paper</a>]&nbsp;&nbsp;&nbsp;[<a href="about/about/iTTVis.mp4" class="aboutLinks">video</a>]
+      Download: [<a href="about/iTTVis.pdf" class="aboutLinks">paper</a>]&nbsp;&nbsp;&nbsp;[<a href="about/iTTVis.mp4" class="aboutLinks">video</a>]
     </p>
   </div>
 </div>
