@@ -1332,9 +1332,6 @@ pre .javascript .function {
   color: #4682b4;
   font-weight: 500;
 }
-.posts-expand .post-body .pub_descrp {
-  font-size: 16px;
-}
 .posts-expand .post-body .aboutTable {
   border: 0;
   width: initial;
@@ -1862,7 +1859,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #f4ff29;
+  background: #34ed0b;
 }
 .links-of-blogroll {
   font-size: 13px;
