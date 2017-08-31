@@ -8,7 +8,7 @@ date: 2017-08-28 13:58:42
 <font size=3><strong>Research Interests:</strong></font>  
 <font size=3> Data Visualization, Human-Computer Interaction </font>  
 <font size=3><strong>Demos:</strong></font>  
-<font size=3> iTTVis </font>  
+<font size=3> <a class="aboutLinks">iTTVis</a> </font>  
 <font size=3><strong>Contact Info:</strong></font>  
 <font size=3> <a class="aboutLinks" href="mailto:xinhuan.shu@connect.ust.hk">xinhuan.shu@connect.ust.hk</a> </font>  
 <font size=3><strong>More:</strong></font>  
@@ -37,7 +37,7 @@ date: 2017-08-28 13:58:42
       </br>
       Accepted by IEEE Transactions on Visualization and Computer Graphics (Proceedings of IEEE InfoVis 2017)
       <br>
-      Download: [pdf] [video]
+      Download: [<a href="about/about/iTTVis.pdf" class="aboutLinks">paper</a>]&nbsp;&nbsp;&nbsp;[<a href="about/about/iTTVis.mp4" class="aboutLinks">video</a>]
     </p>
   </div>
 </div>
