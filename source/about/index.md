@@ -19,7 +19,29 @@ date: 2017-08-28 13:58:42
 # Short Bio
 <p style="font-size: 105%"> My name is Shu Xinhuan, a Ph.D. student in the Department of Computer Science and Engineering at <a class="aboutLinks" href="http://www.ust.hk/">Hong Kong University of Science and Technology</a>. Now, I'm a member of <a class="aboutLinks" href="http://vis.cse.ust.hk/">HKUST VisLab</a> with the supervisor, <a class="aboutLinks" href="http://www.huamin.org/">Prof. Qu Huamin</a>. My research interests focus on data visualization and human-computer interaction.</p>
 
-<p style="font-size: 105%">I have got my Bachelor of Engineering degree in <a class="aboutLinks" href="http://www.zju.edu.cn/english/">Zhejiang University</a> with the main major of Computer Science and Technology. I was also a member of <a class="aboutLinks" href="http://www.cad.zju.edu.cn/english.html">CAD&CG Lab</a>, supervised by Assistant Professor <a class="aboutLinks" href="http://www.ycwu.org/">Yingcai Wu</a>. During my undergraduate studies, I minored in Public Administration at <a class="aboutLinks" href="http://ckc.zju.edu.cn/english/">Chu Kochen Honors College</a>, Zhejiang University.</p>
+<p style="font-size: 105%">I have got my Bachelor of Engineering degree in <a class="aboutLinks" href="http://www.zju.edu.cn/english/">Zhejiang University</a> with the main major of Computer Science and Technology. That time, I was also a member of <a class="aboutLinks" href="http://www.cad.zju.edu.cn/english.html">CAD&CG Lab</a>, supervised by Assistant Professor <a class="aboutLinks" href="http://www.ycwu.org/">Yingcai Wu</a>. During my undergraduate studies, I minored in Public Administration at <a class="aboutLinks" href="http://ckc.zju.edu.cn/english/">Chu Kochen Honors College</a>, Zhejiang University.</p>
+
+<p style="clear:both">&nbsp;</p>
+
+# Publications
+<p style="font-size: 130%; font-weight: 300 !important">2017</p>
+<div class="row">
+  <div class="col-xs-5">
+    <img src="about/about/iTTVis.png" width="300px" style="float:left; margin-right:20px">
+  </div>
+  <div class="col-xs-7">
+    <p>
+      <span class="pub_title">iTTVis: Interactive Visualization of Table Tennis Data</span>
+      </br>
+      Yingcai Wu, Ji Lan, <u class="me">Xinhuan Shu</u>, Chenyang Ji, Kejian Zhao, Jiachen Wang, and Hui Zhang
+      </br>
+      Accepted by IEEE Transactions on Visualization and Computer Graphics (Proceedings of IEEE InfoVis 2017)
+      <br>
+      Download: [pdf] [video]
+    </p>
+  </div>
+</div>
+
 
 <p style="clear:both">&nbsp;</p>
 
